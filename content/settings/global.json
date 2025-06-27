@@ -1,0 +1,41 @@
+{
+  "siteName": "Next.js Commerce",
+  "siteDescription": "High-performance ecommerce store built with Next.js, Vercel, and Shopify.",
+  "navigation": {
+    "main": [
+      {
+        "title": "Home",
+        "href": "/"
+      },
+      {
+        "title": "Shop",
+        "href": "/search"
+      },
+      {
+        "title": "About",
+        "href": "/cms/about"
+      },
+      {
+        "title": "Blog",
+        "href": "/blog"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2025 Next.js Commerce. All rights reserved.",
+    "links": [
+      {
+        "title": "Privacy Policy",
+        "href": "/cms/privacy"
+      },
+      {
+        "title": "Terms of Service",
+        "href": "/cms/terms"
+      },
+      {
+        "title": "Contact",
+        "href": "/cms/contact"
+      }
+    ]
+  }
+}
